@@ -1,0 +1,30 @@
+.body-cards{
+    background-color: rgb(16, 17, 16);
+    height: 550px;
+    padding-top: 30px;
+    /* padding-left: 100px; */
+}
+
+.ms-lg-5 {
+    margin-left: 6rem!important;
+}
+
+.BackgroundImage{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(117, 213, 154);
+    background: url("../images/custBanner.jpg");
+    background-repeat: no-repeat;
+}
+
+.content-text{
+    float: left;
+    color: rgb(148, 144, 144);
+    padding-top: 120px;
+    padding-left: 20px;
+}
+.explore-button{
+    padding-left: 20%;
+    padding-top: 20%;
+    
+}

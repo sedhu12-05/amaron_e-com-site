@@ -1,0 +1,5 @@
+.navs {
+   display: flex;
+   margin-left: 1000px;
+    gap: 20px;
+}
